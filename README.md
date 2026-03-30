@@ -19,11 +19,6 @@ The primary objectives of this projects include.
   * Evaluate medication usage patterns
   * Analyzed family history impact on diseases
   * Improve healthcare decision-making
-# 🛠️Tools & Technologies
-  * **Python(Pandas,Numpy):** Data Cleaning & Feature Engineering
-  * **MySQL:** Data Analysis & Querying
-  * **Jupyter Notebook:** Data Processing
-  * **Power BI:** Dashboard & Visualization
 # 📊Dataset Information
   * **Dataset Summary**
       * Total Records: 10,000
@@ -32,22 +27,22 @@ The primary objectives of this projects include.
       * Format: Structure Tabular data
 # 📋Dataset Features
 * **patint Demographics**
-  * patient ID
-  * age
-  * gender
-  * age group
+   * patient ID
+   * age
+   * gender
+   * age group
 * **Clinical Metrics**
-  * BMI
-  * blood sugar level
-  * kidney function score
-  * glucose tolerance test
+   * BMI
+   * blood sugar level
+   * kidney function score
+   * glucose tolerance test
 * **Lifestyle Factors**
-  * Physical activity level
-  * alcohol consumpation per week
-  * smoking status
+   * Physical activity level
+   * alcohol consumpation per week
+   * smoking status
 * **Healthcare Utilization**
-  * hospital visits last year
-  * medication count
+   * hospital visits last year
+   * medication count
 # 🧹Data Cleaning & Preprocessing
 Data cleaning and preprocessing were performed using **Pandas**
 * **Data Cleaning Steps**
@@ -67,11 +62,11 @@ The following features were created.
   * Chronic disease risk score
 # 🗄️MySQL Analysis
 MySQL queries were written to generate business insights.
-* **Patient Merics**
-   * Total Patients
-   * Average blood sugar level
-   * Diabetes patient count
-   * Heart disease patients count
+ * **Patient Merics**
+    * Total Patients
+    * Average blood sugar level
+    * Diabetes patient count
+    * Heart disease patients count
  * **Risk Analysis**
     * Diabetes rate by age group
     * Heart disease by family history
@@ -86,7 +81,7 @@ MySQL queries were written to generate business insights.
     * Multiple Chronic Conditions Analysis
     * Predictive Risk Segmentation
     * Medication Usage Analysis
-# 📈Power BI Dashbord
+# 📈Data Visualization (Power BI)
 The dashboard provides interactive healthcare insights for stakeholders.
 * **Dashboard KPIs**
    * Total patients
@@ -103,16 +98,16 @@ The dashboard provides interactive healthcare insights for stakeholders.
    * Hospital burden analysis
 # 🧠Key Insights
 * **Risk Insights**
- * Senior age group shows higher risk levels
- *  High BMI increases diabetes risk
- *  Poor kidney function linked to diabetes
+  * Senior age group shows higher risk levels
+  *  High BMI increases diabetes risk
+  *  Poor kidney function linked to diabetes
 * **Lifestyle Insights**
- * Low physical activity increases health risk
- * Alcohol consumption increases heart disease risk
- * Smoking increases chronic disease probability
+  * Low physical activity increases health risk
+  * Alcohol consumption increases heart disease risk
+  * Smoking increases chronic disease probability
 * **Hospital Insights**
- * High risk patients visit hospitals more frequently
- * Chronic diseases increase healthcare burden
+  * High risk patients visit hospitals more frequently
+  * Chronic diseases increase healthcare burden
 # 📂 Project Architecture
 ```
 Healthcare-Risk-Analytics
@@ -134,25 +129,6 @@ Healthcare-Risk-Analytics
 │
 └── README.md
 ```
-# ✅Conclusion
-This Healthcare Risk Analytics project successfully analyzed patient data to identify high-risk individuals, understand disease patterns, and evaluate lifestyle impact on health outcomes. Using Python, MySQL, and Power BI, the project delivered actionable insights through an interactive dashboard, enabling healthcare providers to make data-driven decisions, improve preventive care, and reduce hospital burden.
-The solution demonstrates a complete end-to-end healthcare analytics workflow and provides a scalable framework for real-world healthcare risk monitoring and patient management.
-# 📚References
- * Python Pandas Documentation
- * Power BI Documentation
- * MySQL Documentation
- * Kaggle Retail Datasets
- * Data Analytics Best Practices
-# 👨‍💻Author
-DIWAKAR K
-* Data Analyst | Python | MySQL | Power BI
-# ⭐Project Highlights
- * End-to-End Data Analytics Project
- * Real-World Healthcare Use Case
- * MySQL Business Intelligence Queries
- * Predictive Risk Segmentation
- * Interactive Power BI Dashboard
- * Professional Documentation
 # 📈 Business Impact
 This dashboard helps healthcare organizations:
  * Identify high-risk patients early
@@ -160,5 +136,22 @@ This dashboard helps healthcare organizations:
  * Improve preventive healthcare
  * Optimize healthcare resources
  * Improve clinical decision-making
+# ✅Conclusion
+This Healthcare Risk Analytics project successfully analyzed patient data to identify high-risk individuals, understand disease patterns, and evaluate lifestyle impact on health outcomes. Using Python, MySQL, and Power BI, the project delivered actionable insights through an interactive dashboard, enabling healthcare providers to make data-driven decisions, improve preventive care, and reduce hospital burden.
+The solution demonstrates a complete end-to-end healthcare analytics workflow and provides a scalable framework for real-world healthcare risk monitoring and patient management.
+# 🛠️Tools & Technologies
+  * **Python(Pandas,Numpy):** Data Cleaning & Feature Engineering
+  * **MySQL:** Data Analysis & Querying
+  * **Jupyter Notebook:** Data Processing
+  * **Power BI:** Dashboard & Visualization
+# 📚References
+ * Kaggle Financial Fraud Dataset
+ * Python Pandas Documentation
+ * MySQL Documentation
+ * Power BI Documentation
+# 👨‍💻Author
+Diwakar K | Data Analyst (Fresher)
+ * **Skills:** Python, MySQL,Power BI
+
 
 
