@@ -7,7 +7,7 @@ Healthcare organizations need to identify high-risk patinets early to reduce hos
   * Lifestyle Impact
   * Hospital Utilization
   * Predictive Risk Segmentation
-This project integrates **Python, MySQL, and Power BI** to build a **professional healthcare** analytics solution.
+- This project integrates **Python, MySQL, and Power BI** to build a **professional healthcare** analytics solution.
 # 🎯Business Objectives
 The primary objectives of this projects include.
   * Identify high-risk patients
